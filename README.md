@@ -8,4 +8,5 @@ This is a meta repository that lists projects I have collaborated on but are hos
 | [Hostel Management System](https://github.com/0einstein0/Hostel-Management-System)|C|[@0einstein0](https://github.com/0einstein0)|
 | [Railway Database](https://github.com/0einstein0/Railway-Database) | MySQL | [@0einstein0](https://github.com/0einstein0) |
 |[Spell Checker](https://github.com/0einstein0/Spell-Checker)|C++| [@0einstein0](https://github.com/0einstein0)|
+|[Escapar](https://github.com/0einstein0/Escapar)|Java| [@0einstein0](https://github.com/0einstein0)|
 |[Morse Code Translator](https://github.com/farhaan-mukarram/morse-code-translator)|Python| [@farhaan-mukarram](https://github.com/farhaan-mukarram)|
